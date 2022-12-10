@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+bankly/node_modules/
+bankly/package-lock.json
